@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+sentence-transformers
+transformers
+torch
+timm
+opencv-python
+Pillow
+requests
+tqdm
+albumentations
+optuna
+joblib
+scipy
+pyarrow
